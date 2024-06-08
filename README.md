@@ -79,6 +79,4 @@ Contributions to enhance the dashboards or include additional insights are welco
 
 ## License
 
-This project is licensed under the MIT License.
-
 For any queries or support, please open an issue in the repository.
